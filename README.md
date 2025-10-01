@@ -94,3 +94,30 @@ Here's an example of how to use the script:
 
 ## License
 This project is licensed under the GNU General Public License v3.0.
+
+
+## Comparison of output from this software and other 
+
+
+1. **Install the required Python libraries for comparison only:**
+
+   - Install `numpy, seaborn, scipy` packages:
+   ```
+    pip install numpy
+    pip install seaborn
+    pip install scipy
+   ```
+
+2. **Output format of other software is considered ".tiff" and this software ".tif". Adjust if needed.**
+
+3. ** To compare all images and provide one combined graphs**
+```sh 
+    python com_all.py
+    ```
+To compare individual images and provide individual graph
+
+```sh 
+    com_individual.py
+    ```
+    
+    
