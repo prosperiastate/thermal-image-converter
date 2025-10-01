@@ -96,7 +96,7 @@ Here's an example of how to use the script:
 This project is licensed under the GNU General Public License v3.0.
 
 
-## Comparison of output from this software and other 
+## Comparison of output from this software to others 
 
 
 1. **Install the required Python libraries for comparison only:**
