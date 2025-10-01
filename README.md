@@ -110,15 +110,15 @@ This project is licensed under the GNU General Public License v3.0.
 
 2. **Output format of other software is considered ".tiff" and this software ".tif". Adjust if needed.**
 
-** To compare all images and provide one combined graphs**
+   - To compare all images and provide one combined graphs: 
 
-```sh 
+   ```
     python com_all.py
-    ```
-** To compare individual images and provide individual graph **
+   ```
+   - To compare individual images and provide individual graph
 
-```sh 
-    com_individual.py
-    ```
+   ``` 
+    python com_individual.py
+   ```
     
     
